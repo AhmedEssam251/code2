@@ -1,8 +1,4 @@
-
-
-
-
-  module COUNTER(
+module COUNTER(
   
   input CLK, CLR,   
   output reg [3:0] COUNT
